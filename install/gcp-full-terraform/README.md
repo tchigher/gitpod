@@ -63,7 +63,7 @@ container_registry = {
 certificate_email = "certificates@your-domain.com"
 ```
 
-Several OAuth provider could be added ([docs.gitpod.io](https://www.gitpod.io/docs/self-hosted/latest/install/oauth/)).
+Several OAuth provider could be added ([docs.gitpod.io](https://www.gitpod.io/docs/self-hosted/install/oauth/)).
 
 
 

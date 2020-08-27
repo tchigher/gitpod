@@ -658,9 +658,9 @@ func printNextSteps() {
 
 Your GCP project and this Helm chart are (almost) ready for installation.
 The steps left to do are:
-- [optional] set up HTTPs certificates (see https://www.gitpod.io/docs/self-hosted/latest/install/https-certs/)
+- [optional] set up HTTPs certificates (see https://www.gitpod.io/docs/self-hosted/install/https-certs/)
 - [required] set your domain (see values.yaml)
-- [required] set up OAuth (see https://www.gitpod.io/docs/self-hosted/latest/install/oauth/) (see values.yaml)
+- [required] set up OAuth (see https://www.gitpod.io/docs/self-hosted/install/oauth/) (see values.yaml)
 - use helm to install Gitpod:
 
     export PATH=` + filepath.Join(cwd, "utils") + `:$PATH
