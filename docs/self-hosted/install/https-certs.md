@@ -1,5 +1,5 @@
 ---
-url: /docs/self-hosted/0.5.0/install/https-certs/
+url: /docs/self-hosted/install/https-certs/
 ---
 
 

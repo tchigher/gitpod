@@ -1,5 +1,5 @@
 ---
-url: /docs/self-hosted/0.5.0/install/nodes/
+url: /docs/self-hosted/install/nodes/
 ---
 
 # Kubernetes Nodes

@@ -1,5 +1,5 @@
 ---
-url: /docs/self-hosted/0.5.0/install/workspaces/
+url: /docs/self-hosted/install/workspaces/
 ---
 
 # Workspaces
